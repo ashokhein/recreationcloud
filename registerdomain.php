@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+ <!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Domian Name Registration</title>
