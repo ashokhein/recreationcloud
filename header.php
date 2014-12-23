@@ -16,12 +16,11 @@
                                 <a href="">Domain Registration</a>
                                 <ul>
                                     <li><a href="registerdomain.php">Register Domain</a></li>
-                                    <li><a href="#">Bulk Registration</a></li>
-                                    <li><a href="#">Domain Transfer</a></li>
+                                    <li><a href="domaintransfer.php">Domain Transfer</a></li>
                                     <li><a href="#">Domain Renewal</a></li>
                                     <li><a href="#">Private Registration</a></li>
                                     <li><a href="#">Certified Domain</a></li>
-                                    <li><a href="#">Domain Transfer</a></li>
+                                    <li><a href="#">Premium Domain</a></li>
                                 </ul>
                             </li>
                             <li>
