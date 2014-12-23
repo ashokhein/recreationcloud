@@ -1,7 +1,7 @@
  <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Domain Transfer</title>
+		<title>Domian Name Registration</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -28,7 +28,7 @@
 												<!-- Excerpt -->
 													<article class="box excerpt">
 														<header>
-															<h3>Domain Transfer</h3>
+															<h3>Domain Registration</h3>
 														</header>
 														<p>A domain name is a unique name that identifies an internet resource such as a website. It is an identification string that defines a realm of administrative autonomy, authority or control on the Internet. Domain names are formed by the rules of the Domain Name System (DNS). Any name registered in the DNS is a domain name. The functional description of domain names is presented in the Domain Name System article. Broader usage and industry aspects are captured here.<a href="http://en.wikipedia.org/wiki/Domain_name" target="_new">(wiki)</a></p>
 													</article>
@@ -69,7 +69,7 @@
 								<!-- Post -->
 									<article class="box post">
 										<header>
-											<h2>Domain Transfer</h2>
+											<h2>Domain Registration</h2>
 										</header>
                                             <form qaid="1" class="form-wrapper-search-box sb" name="RegisterDomainForm" id="RegisterDomainForm" method="POST" onSubmit="return checkDomain(this);" action="http://www.secureserver.net/domains/search.aspx?ci=24122&checkAvail=1&prog_id=506983&pl_id=506983" target="_new">
                                             <input type="hidden" name="postBack" value="true">
