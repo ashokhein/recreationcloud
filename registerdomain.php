@@ -59,6 +59,18 @@
 													</article>
 
 											</li>
+											<li>
+
+												<!-- Excerpt -->
+													<article class="box excerpt">
+														<header>
+															<img src="images/certifieddomain.png" />
+															<h3>Certified Domain</h3>
+														</header>
+														<p>A Certified Domain lets people know that GoDaddy has formally certified the domain's registration. Read on for answers to your questions about getting started with domain certification.A Certified Domain provides visible evidence (in the form of the Domain Origination Certified seal) that a domain has been validated and its registrant's credentials have been verified. For this reason a Certified Domain is useful to owners of business websites and other sites that offer transactions and other activities of a sensitive nature. All site owners, however, can improve their site's legitimacy and trustworthiness by displaying the Domain Origination Certified seal.<a href="http://tracedseals.starfieldtech.com/siteseal/verify?ci=80777&sealId=cb55dcfeb7e9372266d4979a298dc088fc092c034e6a8ca8ccce8457af486453" target="_new">(Sample)</a></p>
+													</article>
+
+											</li>
                                           </ul>
 									</section>
 							</div>
@@ -83,7 +95,7 @@
                                             <input type="hidden" name="showAltTLDs" value="">
                                             <input type="hidden" name="fblur" value="0">
                                             <input type="hidden" name="checkAvail" value="1">
-                                            <input type="text" placeholder="Search here..." required name="domainToCheck" />
+                                            <input type="text" placeholder="Search here... first year free domain registration" required name="domainToCheck" />
                                             <button type="submit">Search</button>
                                         </form>
 										<br />

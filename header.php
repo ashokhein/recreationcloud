@@ -4,7 +4,7 @@
         
         <!-- Logo -->
             <h1 id="logo"><a href="index.php">Recreation Cloud</a></h1>
-            <p>Redefined Hosting Services and Software</p>
+            <p>Redefining Hosting Services and Software</p>
         
         <!-- Nav -->
             <nav id="nav">
@@ -17,16 +17,14 @@
                                 <ul>
                                     <li><a href="registerdomain.php">Register Domain</a></li>
                                     <li><a href="domaintransfer.php">Domain Transfer</a></li>
-                                    <li><a href="#">Domain Renewal</a></li>
-                                    <li><a href="#">Private Registration</a></li>
-                                    <li><a href="#">Certified Domain</a></li>
-                                    <li><a href="#">Premium Domain</a></li>
+                                    <li><a href="https://idp.secureserver.net/login.aspx?SPKey=SPMYA4-130117125906002&target=https%253a%252f%252fmya.secureserver.net%252fMyRenewals%252fMyRenewals.aspx%253fci%253d8988%2526prog_id%253d506983&prog_id=506983">Domain Renewal</a></li>
+                                    <li><a href="premiumdomain.php">Premium Domain</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="">Hosting</a>
                                 <ul>
-                                    <li><a href="#">Hosting Plan</a></li>
+                                    <li><a href="hostingplan.php">Hosting Plan</a></li>
                                     <li><a href="#">Virtual Private Server</a></li>
                                     <li><a href="#">Dedicated Server</a></li>
                                     <li><a href="#">Dedicated IP</a></li>
